@@ -1,9 +1,5 @@
-Absolutely, here’s your README.md in proper Markdown format for your Flask real estate project:
 
-markdown
-Copy
-Edit
-# 🏠 Real Estate Listing Web App
+# 🏠 house-price-webapp
 
 This is a sleek, filterable property listing platform built with **Flask**. It displays a curated list of houses in Salem, India, complete with details like interior style, room count, and dynamic price calculation.
 
@@ -42,9 +38,6 @@ Each house price is calculated using the formula:
 
 Price = Area * Base Price per Sqft * Quality Multiplier + Room Count * Room Multiplier
 
-markdown
-Copy
-Edit
 
 - `Base Price per Sqft`: ₹2500
 - `Room Multiplier`: ₹50,000
@@ -77,9 +70,7 @@ python app.py
 Visit: http://127.0.0.1:5000/
 
 📁 Project Structure
-php
-Copy
-Edit
+
 real-estate-flask-app/
 │
 ├── app.py                # Main Flask application
@@ -87,8 +78,8 @@ real-estate-flask-app/
 │   ├── index.html        # Homepage showing listings
 │   └── contact.html      # Contact page
 └── static/               # (Optional) For custom styles or assets
-✨ Screenshots (Sample)
-Replace these links with actual screenshots of your running app.
+✨ Screenshots 
+
 
 
 
@@ -102,10 +93,8 @@ Feel free to reach out via LinkedIn or drop an issue if you find a bug!
 📜 License
 This project is open-source and available under the MIT License.
 
-yaml
-Copy
-Edit
+
 
 ---
 
-Let me know if you want this README to include deployment instructions on [Heroku](f), or a [screenshot section](f) using your local preview!
+
