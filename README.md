@@ -90,11 +90,8 @@ Built with ❤️ by Deepak PS
 📬 Contact
 Feel free to reach out via LinkedIn or drop an issue if you find a bug!
 
+
+
 📜 License
 This project is open-source and available under the MIT License.
-
-
-
----
-
 
