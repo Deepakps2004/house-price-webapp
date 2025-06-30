@@ -59,15 +59,15 @@ Price = Area * Base Price per Sqft * Quality Multiplier + Room Count * Room Mult
 ### 🔹 Installation
 
 ```bash
-git clone https://github.com/yourusername/real-estate-flask-app.git
-cd real-estate-flask-app
+git clone https://github.com/Deepakps2004/house-price-webapp.git
+cd house-price-webapp
+
 pip install flask
+
 🔹 Run the App
-bash
-Copy
-Edit
-python app.py
-Visit: http://127.0.0.1:5000/
+    python app.py
+    Visit: http://127.0.0.1:5000/
+
 
 📁 Project Structure
 
